@@ -19,11 +19,11 @@ Este repositorio contiene un sencillo generador de contraseñas implementado en 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/pass-generator.git
+   git clone https://github.com/OussamaAtifii/pass-generator-react.git
    ```
 2. Ingresa al directorio del proyecto:
     ``` bash
-    cd pass-generator
+    cd pass-generator-react
     ```
 3. Instala las dependencias:
     ``` bash
